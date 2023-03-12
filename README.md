@@ -1,3 +1,17 @@
+This is a fork of Joshnewans code. 
+# My intension
+* Use existing code and do not invent the weel new
+* Only add some libs that are needed for my current project
+
+
+#Added Libs
+* Arduino Motor Sield v2 support (Motor control via I²C)
+
+
+
+
+Original Read.me starts here:
+
 # Arduino Motor Controller
 
 This code turns an Arduino into a motor controller!
